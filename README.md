@@ -8,7 +8,7 @@ Don`t forget to change the sample parameters to the necessary ones. at the file 
 
 and look at the end of the file sketch_feb23a.ino:
 
-server.listen(`8080`, '`localhost`');
+server.listen(`8080`, '`some_ip`');
 
 and, if you don't use ngrok 
 
